@@ -7,3 +7,9 @@ Data is from **Chuan Sun** (https://www.kaggle.com/deepmatrix)'s entry on Kaggle
   the raw data is here: https://raw.githubusercontent.com/sundeepblue/movie_rating_prediction/master/movie_metadata.csv
 
 I used pandas and numpy to create Pivot Tables of the minimum, maximum and mean duration for every year, then used matplotlib.pyplot to plot. Using these libraries makes the program very simple.
+
+## NOTE:
+  During some executions, I got an error meessage saying that stdout was down.  *sys.__stdout__ = sys.stdout* fixes that error. 
+
+
+
