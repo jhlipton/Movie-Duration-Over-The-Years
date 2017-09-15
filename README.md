@@ -9,7 +9,7 @@ Data is from **Chuan Sun** (https://www.kaggle.com/deepmatrix)'s entry on Kaggle
 I used pandas and numpy to create Pivot Tables of the minimum, maximum and mean duration for every year, then used matplotlib.pyplot to plot. Using these libraries makes the program very simple.
 
 ## NOTE:
-  During some executions, I got an error meessage saying that stdout was down.  *sys.__stdout__ = sys.stdout* fixes that error. 
+  During some executions, I got an error meessage saying that stdout was down.  *sys.\_\_stdout_\_ = sys.stdout* fixes that error. 
 
 
 
